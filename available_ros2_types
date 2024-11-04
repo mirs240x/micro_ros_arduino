@@ -105,6 +105,9 @@ lifecycle_msgs/State.msg
 lifecycle_msgs/Transition.msg
 lifecycle_msgs/TransitionDescription.msg
 lifecycle_msgs/TransitionEvent.msg
+mirs_msgs/ParameterUpdate.srv
+mirs_msgs/Params.srv
+mirs_msgs/SimpleCommand.srv
 nav_msgs/GetMap.srv
 nav_msgs/GetPlan.srv
 nav_msgs/GridCells.msg

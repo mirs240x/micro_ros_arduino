@@ -3,3 +3,7 @@ repositories:
     type: git
     url: https://github.com/ros-controls/control_msgs
     version: galactic-devel
+  mirs_msgs:
+    type: git
+    url: https://github.com/mirs240x/mirs_msgs.git
+    version: main
