@@ -105,6 +105,8 @@ lifecycle_msgs/State.msg
 lifecycle_msgs/Transition.msg
 lifecycle_msgs/TransitionDescription.msg
 lifecycle_msgs/TransitionEvent.msg
+mirs_msgs/BasicCommand.srv
+mirs_msgs/BasicParam.msg
 mirs_msgs/ParameterUpdate.srv
 mirs_msgs/Params.srv
 mirs_msgs/SimpleCommand.srv
