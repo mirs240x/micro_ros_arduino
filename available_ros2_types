@@ -115,6 +115,8 @@ mirs_msgs/NumberCommand.srv
 mirs_msgs/NumberCommand.srv
 mirs_msgs/NumberCommand_Request.msg
 mirs_msgs/NumberCommand_Response.msg
+mirs_msgs/ParameterTrigger.action
+mirs_msgs/ParameterTrigger.action
 mirs_msgs/ParameterUpdate.srv
 mirs_msgs/ParameterUpdate.srv
 mirs_msgs/ParameterUpdate_Request.msg
@@ -127,6 +129,8 @@ mirs_msgs/SimpleCommand.srv
 mirs_msgs/SimpleCommand.srv
 mirs_msgs/SimpleCommand_Request.msg
 mirs_msgs/SimpleCommand_Response.msg
+mirs_msgs/Trigger.action
+mirs_msgs/Trigger.action
 nav_msgs/GetMap.srv
 nav_msgs/GetPlan.srv
 nav_msgs/GridCells.msg
